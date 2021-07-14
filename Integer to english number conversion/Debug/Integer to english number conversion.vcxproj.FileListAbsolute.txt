@@ -1,0 +1,2 @@
+C:\Users\Tino\source\repos\Integer to english number conversion\Debug\Integer to english number conversion.exe
+C:\Users\Tino\source\repos\Integer to english number conversion\Debug\Integer to english number conversion.pdb
