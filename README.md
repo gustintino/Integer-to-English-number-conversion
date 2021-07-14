@@ -5,4 +5,7 @@ Min/max values are the minimum and maximum integer values.
 
 Example:
 13 - thirteen
+
 576 - five hundred seventy six
+
+638956 - six hundred thirty eight thousand nine hundred fifty six
